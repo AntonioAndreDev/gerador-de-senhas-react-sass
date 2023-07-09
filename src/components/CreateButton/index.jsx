@@ -1,5 +1,9 @@
 import styles from "./style.module.scss";
 
-export default function CreateButton() {
-  return <button className={styles["createBtn"]}>Gerar Senha</button>;
+export default function CreateButton(props) {
+  return (
+    <button {...props} onClick={props.onClick} className={styles["createBtn"]}>
+      Gerar Senha
+    </button>
+  );
 }
