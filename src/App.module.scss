@@ -1,0 +1,16 @@
+@import "./styles/colors/colors.scss";
+
+.btnContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 1.25rem 0;
+  margin-top: 1.25rem;
+  font-weight: 700;
+}
+
+.newPsw {
+  margin-top: 1.25rem;
+  color: $white-color;
+  font-weight: 400;
+}

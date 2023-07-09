@@ -1,0 +1,15 @@
+@import "../../styles/colors/colors.scss";
+
+.copyBtn {
+  color: $white-color;
+  background-color: $button-color;
+  font-size: 1.25rem;
+  padding: 1rem;
+  border: 1px solid $white-color;
+  transition: 0.3s;
+  cursor: pointer;
+
+  &:hover {
+    scale: 1.1;
+  }
+}
