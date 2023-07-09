@@ -6,4 +6,5 @@
 - React: utilzei para a criação lógica da aplicação e também para a criação da marcação da aplicação (HTML).
 - SASS -> SCSS: utilizei para a estilização da interface da aplicação.
 
-- # 🟦 Me acompanhe!
+ # 🟦 Me acompanhe!
+- <a href="https://www.linkedin.com/in/antonioandredev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
